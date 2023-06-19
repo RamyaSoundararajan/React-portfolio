@@ -37,11 +37,11 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume <BsFillPersonLinesFill size={30} />
+          Resume download <BsFillPersonLinesFill size={30} />
         </>
       ),
       style: "rounded-br-md",
-      href: "/resume.pdf",
+      href: "https://drive.google.com/file/d/14RI9xNE0NTnIphHlyaJIgufgnd7vrKMu/view?usp=drive_link",
       download: true,
     },
   ];

@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi, I am Ramya and this is my React portfolio.
+
+Link to my github [React Portfolio](https://github.com/RamyaSoundararajan/React-portfolio).
 
 ## Available Scripts
 
